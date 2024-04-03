@@ -39,27 +39,27 @@ A unique generic system to
 [[3xTree]]
 ### Trait and Perk Table
 
-| Root Trait (Foundation) | Sub Trait<br>(Experience) | Talents (Perks) | Description | Type |
-| ---- | ---- | ---- | ---- | ---- |
-| Physical | **[[Root traits/Physical/Agility/Index\|Agility]]** | self [[Root traits/Physical/Agility/Index\|Index]] | Increases move points / attacks per current time / velocity |  |
-|  |  | [[Initiative]] | Influences precendence on character actions on current of the turn, increases the velocity and the order of the actions are changed with initiative. |  |
-|  |  | [[Acrobat]] | movement, jumping, climbing, acrobats. |  |
-|  |  | [[Reflex]] | evasion (have [[Perception]] dependencies to unlock further talents) |  |
-|  | **[[Root traits/Physical/Strength/Index\| Strength]]** | self [[Root traits/Physical/Strength/Index\| Index]] | Enhances power and endurance. |  |
-|  |  | [[Resilience]] |  |  |
-|  |  |  |  |  |
-|  | **[[Root traits/Physical/Precision/Index\| Precision]]** | [Perks for Precision] | Improves accuracy and execution. |  |
-|  | **[[Root traits/Physical/Perception/Index\| Perception]]** | [Perks for Perception] | Boosts awareness and strategic insight. |  |
-| Mana | **[[Spell]]** | [[Spell\|index]] | Utilizes inner energy for various abilities. |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-| Essence | Light | [Light Perks/Talents] | Supportive and defensive enhancements. |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  | Dark | [Dark Perks/Talents] | Self-centered abilities with trade-offs. |  |
+| Root Trait (Foundation) | Sub Trait<br>(Experience)                                  | Talents (Perks)                                      | Description                                                                                                                                          | Type |
+| ----------------------- | ---------------------------------------------------------- | ---------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
+| Physical                | **[[Root traits/Physical/Agility/Index\|Agility]]**        | self [[Root traits/Physical/Agility/Index\|Index]]   | Increases move points / attacks per current time / velocity                                                                                          |      |
+|                         |                                                            | [[Initiative]]                                       | Influences precendence on character actions on current of the turn, increases the velocity and the order of the actions are changed with initiative. |      |
+|                         |                                                            | [[Acrobat]]                                          | movement, jumping, climbing, acrobats.                                                                                                               |      |
+|                         |                                                            | [[Reflex]]                                           | evasion (have [[Perception]] dependencies to unlock further talents)                                                                                 |      |
+|                         | **[[Root traits/Physical/Strength/Index\| Strength]]**     | self [[Root traits/Physical/Strength/Index\| Index]] | Enhances power and endurance.                                                                                                                        |      |
+|                         |                                                            | [[Resilience]]                                       |                                                                                                                                                      |      |
+|                         |                                                            |                                                      |                                                                                                                                                      |      |
+|                         | **[[Root traits/Physical/Precision/Index\| Precision]]**   | [Perks for Precision]                                | Improves accuracy and execution.                                                                                                                     |      |
+|                         | **[[Root traits/Physical/Perception/Index\| Perception]]** | [Perks for Perception]                               | Boosts awareness and strategic insight.                                                                                                              |      |
+| Mana                    | **[[Spell]]**                                              | [[Spell\|index]]                                     | Utilizes inner energy for various abilities.                                                                                                         |      |
+|                         |                                                            |                                                      |                                                                                                                                                      |      |
+|                         |                                                            |                                                      |                                                                                                                                                      |      |
+|                         |                                                            |                                                      |                                                                                                                                                      |      |
+|                         |                                                            |                                                      |                                                                                                                                                      |      |
+|                         |                                                            |                                                      |                                                                                                                                                      |      |
+| Essence                 | Light                                                      | [Light Perks/Talents]                                | Supportive and defensive enhancements.                                                                                                               |      |
+|                         |                                                            |                                                      |                                                                                                                                                      |      |
+|                         |                                                            |                                                      |                                                                                                                                                      |      |
+|                         | Dark                                                       | [Dark Perks/Talents]                                 | Self-centered abilities with trade-offs.                                                                                                             |      |
 
 
 *Note: Specific perks and talents for Strength, Precision, Perception, and Mana sub-traits are to be defined.*

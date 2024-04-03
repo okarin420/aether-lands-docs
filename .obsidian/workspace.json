@@ -4,45 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "655dfd4851740dd9",
+        "id": "d200418da6a8eef0",
         "type": "tabs",
         "children": [
           {
-            "id": "9226ed9594a8c6be",
+            "id": "db6180f61ad812a2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Root traits/Index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4452ceb6c7664a98",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Root traits/Mana/index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5bda13c00d7975d8",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.8"
+                "file": "Excalidraw/traits graphs.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Root traits/Mana/index.md",
+                "file": "Excalidraw/traits graphs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Root traits/Mana/index.md",
+                "file": "Excalidraw/traits graphs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Root traits/Mana/index.md"
+                "file": "Excalidraw/traits graphs.md"
               }
             }
           }
@@ -171,11 +146,29 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "5bda13c00d7975d8",
+  "active": "db6180f61ad812a2",
   "lastOpenFiles": [
-    "Root traits/3xTree.md",
-    "Root traits/Physical/Index.md",
+    "Excalidraw/Drawing 2024-04-02 18.09.15.excalidraw.md",
+    "Excalidraw/traits graphs.md",
+    "Root traits/index.md",
+    "index.md",
+    "assets/realtime/first_creation_version2_battlefield.webp",
     "Root traits/Mana/index.md",
+    "assets/traits/influence.png",
+    "assets/traits/alchemy.png",
+    "assets/realtime/first_creation_battlefield.webp",
+    "assets/realtime/first_creatio_version3_battlefield.webp",
+    "Excalidraw/Drawing 2024-04-02 17.25.59.excalidraw.md",
+    "Excalidraw",
+    "Root traits/3xTree.md",
+    "docs/Introduction.md",
+    "docs/Game overview.md",
+    "docs/index.md",
+    "assets/traits/enhancement.png",
+    "assets/traits/craft.png",
+    "Dynamics/Turn/Index.md",
+    "Dynamics/Gameplay/Index.md",
+    "Root traits/Physical/Index.md",
     "Root traits/Physical/Agility/Initiative.md",
     "Root traits/Physical/Agility/Acrobat.md",
     "Root traits/Physical/Agility/Index.md",
@@ -189,35 +182,17 @@
     "Root traits/Essence/Dark.md",
     "Elements/Water.md",
     "Elements/Elements.md",
-    "Elements/Fire.md",
-    "Dynamics/Turn/Index.md",
-    "Dynamics/Gameplay/Index.md",
-    "docs/Introduction.md",
-    "docs/Game overview.md",
-    "docs/index.md",
-    "Root traits/Index.md",
-    "Root traits/Physical/Perception/Index.md",
-    "Mechanics/Untitled.md",
     "Dynamics/Gameplay",
-    "index.md",
     "Dynamics/Turn",
     "Dynamics",
     "Root traits/Physical/Strength",
     "Root traits/Physical/Precision",
     "Root traits/Physical/Perception",
-    "assets/traits/alchemy.png",
-    "assets/traits/enhancement.png",
-    "assets/traits/influence.png",
     "assets/traits/spell.png",
-    "assets/traits/craft.png",
-    "assets/realtime/first_creation_version2_battlefield.webp",
-    "assets/realtime/first_creation_battlefield.webp",
-    "assets/realtime/first_creatio_version3_battlefield.webp",
     "assets/AIdemo.webp",
     "assets/traits",
     "assets/realtime",
     "Root traits/Physical/Agility",
-    "Root traits/Mana/Aura",
     "assets/sample_scenario_1.webp",
     "Untitled.canvas"
   ]

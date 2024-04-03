@@ -8,5 +8,4 @@
   ### Traits Causation
 - Every second planning phase allows players to adapt to their opponents' tactics, leveraging the [[Root traits/Physical/Perception/Index| Perception]] trait to gauge enemy intentions.
   
-  
 - The order of action within each turn shifts, promoting a dynamic flow of combat.
